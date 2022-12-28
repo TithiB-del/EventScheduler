@@ -1,3 +1,5 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 class NewEventScreen extends State<NewEventScreen>{
   final TextEditingController _textEditingController = TextEditingController();
   @override
